@@ -9,7 +9,7 @@ int show(int k)
     return 0;
 }
 
-class Circle
+class Circle1
 {
 
 public:
